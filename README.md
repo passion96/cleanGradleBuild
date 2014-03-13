@@ -1,4 +1,4 @@
-= A simple gradle build to get you started =
+# A simple gradle build to get you started
 
 Simple Gradle build file that has:
 
