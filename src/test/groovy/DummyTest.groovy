@@ -4,7 +4,7 @@ class DummyTest {
 
     @Test
     void testDummy() {
-        assert Dummy.dummy() == 43
+        assert Dummy.dummy() == 42
     }
 
 }

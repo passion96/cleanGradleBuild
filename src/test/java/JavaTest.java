@@ -5,7 +5,7 @@ public class JavaTest {
 
     @Test
     public void testDummy() {
-        assertEquals(43, JavaDummy.dummy());
+        assertEquals(42, JavaDummy.dummy());
     }
 
 }
